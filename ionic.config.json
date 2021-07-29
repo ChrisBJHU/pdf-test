@@ -1,0 +1,8 @@
+{
+  "name": "PDFTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cd0a4549"
+}
